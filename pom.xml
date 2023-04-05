@@ -18,6 +18,7 @@
     <modules>
         <module>api-passenger</module>
         <module>service-captcha</module>
+        <module>common</module>
     </modules>
 
     <dependencyManagement>
